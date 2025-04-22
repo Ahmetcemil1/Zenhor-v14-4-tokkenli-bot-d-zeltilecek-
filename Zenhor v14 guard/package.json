@@ -1,0 +1,26 @@
+{
+    "name": "zenhor-guard",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "register": "node registerAllCommands.js",
+        "reset": "node fullResetKomutlar.js",
+        "clear-global": "node clearGlobalCommands.js",
+        "backup": "node scripts/backup/fullBackup.js",
+        "restore": "node scripts/backup/fullRestore.js",
+        "check": "node scripts/backup/checkBackupStatus.js",
+        "test": "node scripts/backup/testBackupScripts.js",
+        "backup-scheduler": "node scripts/backup/scheduler.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.11.0",
+        "node-cron": "^3.0.3"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.25.1",
+        "eslint": "^9.25.1",
+        "globals": "^16.0.0",
+        "nodemon": "^3.1.9"
+    }
+}

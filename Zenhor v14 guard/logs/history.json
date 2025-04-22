@@ -1,0 +1,42 @@
+[
+  {
+    "message": "[OtoTest1] Whitelist: Listede değil - zenhor01",
+    "timestamp": "2025-04-22T19:25:15.561Z"
+  },
+  {
+    "message": "[OtoTest1] Whitelist: Listede değil - zenhor01",
+    "timestamp": "2025-04-22T19:16:09.447Z"
+  },
+  {
+    "message": "[OtoTest4] zenhor01 oto test çalıştırdı.",
+    "timestamp": "2025-04-20T21:56:28.288Z"
+  },
+  {
+    "message": "🧪 Bot4 logAction() testi",
+    "timestamp": "2025-04-20T21:56:24.802Z"
+  },
+  {
+    "message": "[OtoTest4] Whitelist: Listede değil - zenhor01",
+    "timestamp": "2025-04-20T21:56:24.800Z"
+  },
+  {
+    "message": "[OtoTest3] zenhor01 oto test çalıştırdı.",
+    "timestamp": "2025-04-20T21:56:19.654Z"
+  },
+  {
+    "message": "🧪 Bot3 logAction() testi",
+    "timestamp": "2025-04-20T21:56:16.240Z"
+  },
+  {
+    "message": "[OtoTest3] Whitelist durumu: Listede değil - zenhor01",
+    "timestamp": "2025-04-20T21:56:16.238Z"
+  },
+  {
+    "message": "[OtoTest2] zenhor01 oto test komutunu kullandı.",
+    "timestamp": "2025-04-20T21:56:11.984Z"
+  },
+  {
+    "message": "🧪 Bot2 logAction() testi",
+    "timestamp": "2025-04-20T21:56:09.980Z"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1361793699520053328",
+    "name": "@everyone",
+    "color": 0,
+    "hoist": false,
+    "position": 0,
+    "permissions": "2248473465835073",
+    "mentionable": false
+  },
+  {
+    "id": "1361831897394581654",
+    "name": "jail",
+    "color": 0,
+    "hoist": false,
+    "position": 11,
+    "permissions": "0",
+    "mentionable": false
+  },
+  {
+    "id": "1363154868730331236",
+    "name": "yeni rol",
+    "color": 0,
+    "hoist": false,
+    "position": 9,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363202599603671052",
+    "name": "ototest-rol",
+    "color": 0,
+    "hoist": false,
+    "position": 10,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363437480312836246",
+    "name": "İ N F A Z   IV",
+    "color": 0,
+    "hoist": false,
+    "position": 12,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363437669971001377",
+    "name": "İ N F A Z   III",
+    "color": 0,
+    "hoist": false,
+    "position": 13,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363437770441359486",
+    "name": "İ N F A Z   II",
+    "color": 0,
+    "hoist": false,
+    "position": 14,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363437864108687382",
+    "name": "İ N F A Z   I",
+    "color": 0,
+    "hoist": false,
+    "position": 15,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363499282837012541",
+    "name": "@everyone",
+    "color": 0,
+    "hoist": false,
+    "position": 8,
+    "permissions": "2248473465835073",
+    "mentionable": false
+  },
+  {
+    "id": "1363499284414075091",
+    "name": "jail",
+    "color": 0,
+    "hoist": false,
+    "position": 7,
+    "permissions": "0",
+    "mentionable": false
+  },
+  {
+    "id": "1363499285588738099",
+    "name": "yeni rol",
+    "color": 0,
+    "hoist": false,
+    "position": 6,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363499286515421237",
+    "name": "ototest-rol",
+    "color": 0,
+    "hoist": false,
+    "position": 5,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363499288084090972",
+    "name": "İ N F A Z   IV",
+    "color": 0,
+    "hoist": false,
+    "position": 4,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363499289526927370",
+    "name": "İ N F A Z   III",
+    "color": 0,
+    "hoist": false,
+    "position": 3,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363499291007651963",
+    "name": "İ N F A Z   II",
+    "color": 0,
+    "hoist": false,
+    "position": 2,
+    "permissions": "8",
+    "mentionable": false
+  },
+  {
+    "id": "1363499292656144546",
+    "name": "İ N F A Z   I",
+    "color": 0,
+    "hoist": false,
+    "position": 1,
+    "permissions": "8",
+    "mentionable": false
+  }
+]

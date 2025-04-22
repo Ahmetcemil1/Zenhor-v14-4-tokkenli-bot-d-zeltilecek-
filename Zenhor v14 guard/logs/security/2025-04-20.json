@@ -1,0 +1,511 @@
+[
+  {
+    "bot": "İ N F A Z   IV",
+    "time": "2025-04-20T21:56:24.802Z",
+    "message": "🧪 Bot4 logAction() testi"
+  },
+  {
+    "bot": "İ N F A Z   III",
+    "time": "2025-04-20T21:56:16.241Z",
+    "message": "🧪 Bot3 logAction() testi"
+  },
+  {
+    "bot": "İ N F A Z   II",
+    "time": "2025-04-20T21:56:09.981Z",
+    "message": "🧪 Bot2 logAction() testi"
+  },
+  {
+    "bot": "İ N F A Z   I",
+    "time": "2025-04-20T21:55:59.202Z",
+    "message": "⚠️ zenhor01 adlı kişinin tüm rolleri kaldırıldı."
+  },
+  {
+    "bot": "İ N F A Z   I",
+    "time": "2025-04-20T21:55:58.833Z",
+    "message": "🧪 Bot1 logAction() test mesajı"
+  },
+  {
+    "bot": "İ N F A Z   IV",
+    "time": "2025-04-20T21:08:37.958Z",
+    "message": "🧪 Bot4 logAction() testi"
+  },
+  {
+    "bot": "İ N F A Z   III",
+    "time": "2025-04-20T21:08:33.704Z",
+    "message": "🧪 Bot3 logAction() testi"
+  },
+  {
+    "bot": "İ N F A Z   II",
+    "time": "2025-04-20T21:08:29.224Z",
+    "message": "🧪 Bot2 logAction() testi"
+  },
+  {
+    "bot": "İ N F A Z   I",
+    "time": "2025-04-20T21:08:26.272Z",
+    "message": "⚠️ zenhor01 adlı kişinin tüm rolleri kaldırıldı."
+  },
+  {
+    "bot": "İ N F A Z   I",
+    "time": "2025-04-20T21:08:25.919Z",
+    "message": "🧪 Bot1 logAction() test mesajı"
+  },
+  {
+    "timestamp": "2025-04-20T21:08:25.301Z",
+    "executor": "zenhor01",
+    "action": "Whitelist Kontrolü",
+    "details": {
+      "whitelist": false
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:25.916Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:25.919Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:26.273Z",
+    "executor": "zenhor01",
+    "action": "dropPermissions Testi",
+    "details": {
+      "status": "Başarılı",
+      "roles": [
+        "1363154868730331236",
+        "1361793699520053328"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:26.853Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildBanAdd",
+      "label": "⛔ Sunucudan Ban",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:26.854Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildBanRemove",
+      "label": "✅ Ban Kaldırma",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:26.855Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildMemberRemove",
+      "label": "🚪 Sunucudan Çıkma veya Atılma",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:26.855Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildMemberUpdate",
+      "label": "🛠️ Yetki Güncellemesi",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:29.223Z",
+    "executor": "zenhor01",
+    "action": "Whitelist Kontrolü",
+    "details": {
+      "whitelist": false
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:29.225Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:29.942Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:29.943Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "roleCreate",
+      "label": "🆕 Rol Oluşturma Engellemesi",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:29.943Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "roleDelete",
+      "label": "🗑️ Rol Silinme Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:29.943Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "roleUpdate",
+      "label": "🔧 Rol Güncelleme Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:33.702Z",
+    "executor": "zenhor01",
+    "action": "Whitelist Kontrolü",
+    "details": {
+      "whitelist": false
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:33.704Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:35.828Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:35.828Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "channelDelete",
+      "label": "🗑️ Kanal Silinme Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:08:35.829Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "channelCreate",
+      "label": "🆕 Kanal Oluşturma Engellemesi",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:57.952Z",
+    "executor": "zenhor01",
+    "action": "Whitelist Kontrolü",
+    "details": {
+      "whitelist": false
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:58.829Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:58.833Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:59.203Z",
+    "executor": "zenhor01",
+    "action": "dropPermissions Testi",
+    "details": {
+      "result": "Roller alındı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:59.773Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildBanAdd",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:59.773Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildBanRemove",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:59.774Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildMemberRemove",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:55:59.775Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildMemberUpdate",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:00.025Z",
+    "executor": "zenhor01",
+    "action": "Simülasyon Kickleme",
+    "details": {
+      "success": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:00.026Z",
+    "eventType": "OTO_TEST",
+    "executorId": "1253466679753834600",
+    "executorTag": "zenhor01",
+    "targetId": "1253466679753834600",
+    "targetName": "zenhor01",
+    "details": {
+      "bot": "İ N F A Z   I",
+      "context": "ototest1.js",
+      "whitelist": false,
+      "testedEvents": [
+        "guildBanAdd",
+        "guildBanRemove",
+        "guildMemberRemove",
+        "guildMemberUpdate"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:09.979Z",
+    "executor": "zenhor01",
+    "action": "Whitelist Kontrolü",
+    "details": {
+      "whitelist": false
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:09.981Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:10.811Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:10.811Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "roleCreate",
+      "label": "🆕 Rol Oluşturma Engellemesi",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:10.812Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "roleDelete",
+      "label": "🗑️ Rol Silinme Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:10.812Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "roleUpdate",
+      "label": "🔧 Rol Güncelleme Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:11.692Z",
+    "executor": "zenhor01",
+    "action": "Gerçekçi Rol Simülasyonu",
+    "details": {
+      "roleName": "🔧 ototest-güncelleme",
+      "tested": [
+        "create",
+        "update",
+        "delete"
+      ],
+      "success": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:11.693Z",
+    "eventType": "OTO_TEST",
+    "executorId": "1253466679753834600",
+    "executorTag": "zenhor01",
+    "targetId": "1253466679753834600",
+    "targetName": "zenhor01",
+    "details": {
+      "bot": "İ N F A Z   II",
+      "context": "ototest2.js",
+      "whitelist": false,
+      "testedEvents": [
+        "roleCreate",
+        "roleDelete",
+        "roleUpdate"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:16.239Z",
+    "executor": "zenhor01",
+    "action": "Whitelist Kontrolü",
+    "details": {
+      "whitelist": false
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:16.241Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:18.592Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:24.803Z",
+    "executor": "zenhor01",
+    "action": "logAction Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:26.082Z",
+    "executor": "zenhor01",
+    "action": "DM Testi",
+    "details": {
+      "status": "Başarılı"
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:26.082Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "guildUpdate",
+      "label": "🏷️ Sunucu Ayarı Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:26.083Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "webhookUpdate",
+      "label": "🪝 Webhook Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:26.084Z",
+    "executor": "zenhor01",
+    "action": "Event Listener Kontrolü",
+    "details": {
+      "event": "emojiDelete",
+      "label": "😶 Emoji Silme Koruması",
+      "aktif": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:26.902Z",
+    "executor": "zenhor01",
+    "action": "Sunucu Adı Simülasyonu",
+    "details": {
+      "success": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:27.802Z",
+    "executor": "zenhor01",
+    "action": "Webhook Simülasyonu",
+    "details": {
+      "success": true
+    }
+  },
+  {
+    "timestamp": "2025-04-20T21:56:27.803Z",
+    "eventType": "OTO_TEST",
+    "executorId": "1253466679753834600",
+    "executorTag": "zenhor01",
+    "targetId": "1253466679753834600",
+    "targetName": "zenhor01",
+    "details": {
+      "bot": "İ N F A Z   IV",
+      "context": "ototest4.js",
+      "whitelist": false,
+      "testedEvents": [
+        "guildUpdate",
+        "webhookUpdate",
+        "emojiDelete"
+      ]
+    }
+  }
+]
